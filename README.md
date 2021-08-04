@@ -1,1 +1,1 @@
-This is the Discription of the tutorial repo
+This is the description of the tutorial repo
